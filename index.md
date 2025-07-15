@@ -1,10 +1,11 @@
 ---
-title: Welcome to my blog
+title: Spencer Moore's Homepage/Blog/Brain-Telemetry
 ---
+
 
 # My GitHub Pages Site
 
-Welcome to my GitHub Pages site! This template provides a structured way to create your own webpage using Markdown. Below are examples of how to add content, including images after uploading them.
+I study physics so that will dominate as a subject on this site. However, by definition that means it will also be nerdy randomness!
 
 ## How to Upload Images
 
